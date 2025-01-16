@@ -1,0 +1,2 @@
+# PayMe
+ Simple Payment Platform
