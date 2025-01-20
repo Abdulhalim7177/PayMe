@@ -1,20 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-    <!-- Title -->
-    <title>PayMe - Home</title>
-
-    <!-- Required Meta Tags Always Come First -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <!-- Favicon -->
-    <link rel="shortcut icon" href="public/favicon.ico">
-
-    <!-- App CSS -->
-    <link rel="stylesheet" href="public/css/app.css">
-
+    
+    <head>
+        <!-- Title -->
+        <title>PayMe - Home</title>
+        
+        <!-- Required Meta Tags Always Come First -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        
+        <!-- Favicon -->
+        <link rel="shortcut icon" href="public/favicon.ico">
+        
+        <!-- App CSS -->
+        <link rel="stylesheet" href="public/css/app.css">
 </head>
 
 <body>
