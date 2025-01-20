@@ -1,20 +1,23 @@
 <?php
 
 namespace App\Http\Controllers;
+
 use Illuminate\Http\Request;
 
 class PageController extends Controller
 {
-// Homepage
+    // Homepage
     public function home()
     {
         return view('pages.home');
     }
+
     // Terms
     public function terms()
     {
         return view('pages.terms');
     }
+
     // Privacy
     public function privacy()
     {
